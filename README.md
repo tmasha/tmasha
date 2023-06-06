@@ -1,12 +1,12 @@
-# 🪐 About Me
+# 🚀 About Me
 ➲ Computer Science / Mathematics Student<br>➲ Interested in AI, ML, Robotics, and Space<br>➲ Project Manager @ Virtual eSports Coach
 
-# 📊 GitHub Stats
+# 📊 Stats
 ![](https://github-readme-stats.vercel.app/api?username=tmasha&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tmasha&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tmasha&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🚀 Repos
+### 🪐 Repos
 ![](https://github-contributor-stats.vercel.app/api?username=tmasha&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
