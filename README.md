@@ -1,5 +1,5 @@
 # 🚀 About Me
-➲ Computer Science / Mathematics Student<br>➲ Interested in AI, ML, Robotics, and Space<br>➲ Project Manager @ Virtual eSports Coach
+➲ Computer Science / Mathematics Student<br>➲ Interested in AI, ML, and Space<br>➲ Project Manager @ Virtual eSports Coach
 
 # 📊 Stats
 ![](https://github-readme-stats.vercel.app/api?username=tmasha&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
