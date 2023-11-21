@@ -1,5 +1,5 @@
 # 🚀 About Me
-➲ Computer Science Undergraduate<br>➲ Interested in Scientific Programming<br>➲ Project Manager @ Virtual eSports Coach
+➲ Computer Science Undergraduate<br>➲ Interested in Scientific Programming<br>➲ Researcher @ AggieNova
 
 # 📊 Stats
 ![](https://github-readme-stats.vercel.app/api?username=tmasha&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
