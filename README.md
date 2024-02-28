@@ -1,4 +1,4 @@
-## 💫 𝙷𝚒, 𝙸'𝚖 𝚃𝚑𝚘𝚖𝚊𝚜!
+# 💫 𝙷𝚒, 𝙸'𝚖 𝚃𝚑𝚘𝚖𝚊𝚜!
 ➲ Computer Science Undergraduate @ Texas A&M University<br>
 ➲ Interested in Scientific Programming and Astrophysics<br>
 ➲ Researcher @ Aggienova
