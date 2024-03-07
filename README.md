@@ -1,8 +1,8 @@
-# 💫 𝙷𝚒, 𝙸'𝚖 𝚃𝚑𝚘𝚖𝚊𝚜!
+# 💫 Hi, I'm Thomas!
 ➲ Computer Science Undergraduate @ Texas A&M University<br>
 ➲ Interested in Scientific Programming and Astrophysics<br>
 ➲ Researcher @ Aggienova
-## 🚀 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔
+## 🚀 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
