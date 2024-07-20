@@ -1,6 +1,6 @@
 # 💫 Hi, I'm Thomas!
 ➲ Computer Science Student @ Texas A&M University<br>
-➲ Interested in Scientific Programming and Astrophysics<br>
+➲ Interested in Graphics Programming<br>
 ➲ Undergraduate Researcher
 ## 🚀 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
