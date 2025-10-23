@@ -1,5 +1,5 @@
 # 🌌 Heyo, I'm Thomas! 🚀
-➲ Computer Science @ Texas A&M<br>
+➲ Computer Science Student @ Texas A&M<br>
 ➲ Former Intern @ NREL<br>
 ➲ Music Producer / DJ / VJ<br>
 
