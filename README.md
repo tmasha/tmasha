@@ -1,12 +1,11 @@
 # 🌌 Heyo, I'm Thomas! 🚀
 ➲ Computer Science Student @ Texas A&M<br>
 ➲ Former Intern @ NREL<br>
-➲ Music Producer / DJ / VJ<br>
+➲ EDM Music Producer / DJ / VJ<br>
 
 ---
 
 ### 💻 Languages
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -21,9 +20,7 @@
 ---
 
 ### 📊 Stats
-
 ![](https://github-readme-stats.vercel.app/api?username=tmasha&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true)<br>
 
 ---
-
 > "You only live once and you're not coming back, so express yourself!" 🌠
